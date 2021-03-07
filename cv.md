@@ -40,7 +40,8 @@ Officer, Ministry of Defence
 2008-2013 Belarusian State University, International Relations
 
 
-### Completed Courses: 
+### Completed Courses:
+* 2021 JavaScript Essential Training - LinkedIn Learning
 * 2020 Learning REST APIs - LinkedIn Learning
 * 2020 Learning Gantt Charts - LinkedIn Learning
 * 2020 Project Management Simplified - LinkedIn Learning
