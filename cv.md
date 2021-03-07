@@ -14,7 +14,7 @@ I share the view that the future will be inseparably connected with information 
 
 ### Skills:
 * Stakeholder analysis
-* Enterptrise analysis
+* Enterprise analysis
 * Requirements elicitation 
 * Creation of business analysis artifacts
 * Prototyping (Axure Rp, Balsamiq)
