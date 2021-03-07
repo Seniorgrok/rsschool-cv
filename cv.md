@@ -52,7 +52,7 @@ Officer, Ministry of Defence
 * 2019 Business Analysis course - IT academy
 
 
-### Langeages spoken:
+### Languages spoken:
 * English - C1, advanced (IELTS band score - 7)
 * Chinese - B1, intermediate 
 * Polish - A2, pre-intermidiate
