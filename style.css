@@ -1,0 +1,38 @@
+body {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+    padding: 0 20px 0 20 px;
+}
+
+
+h2 {
+    color: rgb(3, 126, 116);
+    width: 200px;
+    padding: 0;
+    float: right;
+    position: relative;
+    top: 130px;
+    right: 350px;
+}
+
+.motto {
+    width: 420px;
+    background-color:rgb(3, 126, 116);
+    padding: 20px;
+    border: solid 1px rgb (3, 126, 116);
+    float: right;
+    position: relative;
+    top: 200px;
+    left: 110px;
+}
+
+.Contacts {
+    width: 600px;
+}
+
+.Summary {
+    width: 710px;
+    float: top;
+    text-align: justify;
+}
